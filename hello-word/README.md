@@ -1,4 +1,4 @@
-# Compilando e Rodando primeiro código Java
+# Compilando e Rodando primeiro código Java:
 
 **1.** Criado a classe principal **Programa.java** utilizando um editor de texto simples.
 
