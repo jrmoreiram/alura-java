@@ -1,4 +1,4 @@
-# Formação Java e Orientação a Objetos.
+# Formação Java e Orientação a Objetos
 
 #### Temas abordados durante o curso:
 - Sobre o Java
