@@ -1,6 +1,6 @@
 # Formação Java e Orientação a Objetos.
 
-#### Temas abordados durante o curso::
+#### Temas abordados durante o curso:
 - Sobre o Java
 - Java JRE e JDK: Escreva o seu primeiro código com Eclipse
 - Java OO: Introdução à Orientação a Objetos
